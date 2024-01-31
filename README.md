@@ -17,3 +17,7 @@ How to use it:
     import {addNum} from 'whole.js'
     addNum(98.7652278) // has to be a float
 ```
+Install 
+```
+    npm i whole.js
+```
