@@ -1,6 +1,7 @@
 # whole.js
 whole.js is a library that converts decimal numbers into whole numbers.
 for example
+
 input
 ```
     87.9086751
